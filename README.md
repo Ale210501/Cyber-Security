@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Red Horse** is a university cybersecurity project designed to simulate a black-box penetration test using social engineering techniques. The scenario involves impersonating tipsters within a Telegram group to lure victims into downloading a malicious file hidden behind a sports betting suggestion. The objective is to raise awareness about malware distribution tactics and defensive countermeasures.
+**Red Horse** is a university cybersecurity project designed to simulate a black-box penetration test using social engineering techniques. The scenario involves impersonating tipsters within a Telegram group to lure victims into downloading a malicious file hidden behind a sports betting suggestion. The objective is to raise awareness about malware distribution tactics and defensive countermeasures. If you want to see what we have done, click on this link [https://bit.ly/VideoRedHorse](RedHorse).
 
 ## Objectives
 
@@ -75,11 +75,10 @@ An interactive quiz game designed to educate users on:
 - Proper responses to security threats.
 
 ### Link to Game
-Play here: [https://cyberquiz.my.canva.site/](https://cyberquiz.my.canva.site/)
+Play here: [https://cyberquiz.my.canva.site/](CyberQuiz)
 
 ### Preview Video
-Watch: [https://bit.ly/VideoCyberQuiz](https://bit.ly/VideoCyberQuiz)
+Watch: [https://bit.ly/VideoCyberQuiz](VideoCyberQuiz)
 
----
 
 > This project is for educational purposes only and must not be replicated outside authorized environments.
